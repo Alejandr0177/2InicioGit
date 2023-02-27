@@ -21,7 +21,7 @@ playBtn.addEventListener('click', () => {
     playBtn.classList.toggle('pause')
     disk.classList.toggle('play')
 })
-forEach
+
 const setMusic = (i) => {
     seekBar.value = 0
     let song = songs[i]
